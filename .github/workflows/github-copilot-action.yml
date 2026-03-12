@@ -1,0 +1,11 @@
+name: GitHub Copilot Action
+
+on:
+  workflow_dispatch:
+
+jobs:
+  copilot:
+    runs-on: ubuntu-latest
+    steps:
+      - name: GitHub Copilot Action
+        uses: mvkaran/gh-copilot@v1.0.0
