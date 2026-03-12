@@ -15,6 +15,8 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 4. Define Definition of Done (DoD)
 5. Identify dependencies and integration points
 6. Create release plan and milestone map
+7. UX Designer participates in early scoping to provide design requirements and user research insights
+8. Data Analyst defines success metrics and identifies instrumentation needs
 
 ## Backlog Item Template
 - Title:
@@ -41,3 +43,5 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - [ ] Release timeline and milestones agreed
 - [ ] Definition of Done documented
 - [ ] Initial test plan / QA approach drafted
+- [ ] UX Designer engaged for design requirements and user research
+- [ ] Data Analyst engaged to define success metrics and dashboards
